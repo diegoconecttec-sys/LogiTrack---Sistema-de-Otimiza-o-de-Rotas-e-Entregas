@@ -132,4 +132,5 @@ O projeto segue uma abordagem evolutiva:
 
 ## 👨‍💻 Autor
 
-Diego Augusto
+Diego Augusto Siqueira Batista
+
